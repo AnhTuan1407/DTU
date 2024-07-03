@@ -1,0 +1,12 @@
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\obj\Debug\QLSV_05_03_24.csprojAssemblyReference.cache
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\obj\Debug\QLSV_05_03_24.frm_SinhVien.resources
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\obj\Debug\QLSV_05_03_24.Properties.Resources.resources
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\obj\Debug\QLSV_05_03_24.csproj.GenerateResource.cache
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\obj\Debug\QLSV_05_03_24.csproj.CoreCompileInputs.cache
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\bin\Debug\QLSinhVien.mdf
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\bin\Debug\QLSinhVien_log.ldf
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\bin\Debug\QLSV_05_03_24.exe.config
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\bin\Debug\QLSV_05_03_24.exe
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\bin\Debug\QLSV_05_03_24.pdb
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\obj\Debug\QLSV_05_03_24.exe
+D:\DTU\.net\QLSV_05_03_24\QLSV_05_03_24\obj\Debug\QLSV_05_03_24.pdb

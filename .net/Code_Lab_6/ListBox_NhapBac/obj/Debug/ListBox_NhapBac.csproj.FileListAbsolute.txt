@@ -1,0 +1,50 @@
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_Bac.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_NhapBac.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.Properties.Resources.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csproj.GenerateResource.Cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_ListBox.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\ListBox_NhapBac\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_ListBox_HoTen.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.exe.config
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.exe
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.pdb
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csprojResolveAssemblyReference.cache
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_Bac.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_ListBox.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_ListBox_HoTen.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_NhapBac.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.Properties.Resources.resources
+E:\Giang day\GiangDay_Winform CS_414_SL_Khuong_20170516\CS414 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csproj.GenerateResource.Cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.exe.config
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.exe
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.pdb
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csproj.AssemblyReference.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_Bac.resources
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_ListBox.resources
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_ListBox_HoTen.resources
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_NhapBac.resources
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.Properties.Resources.resources
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csproj.GenerateResource.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csproj.CoreCompileInputs.cache
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.exe
+D:\GiangDay\GiangDay_WinNet\CS464 Lectures\Bai Tap_Thuc_Hanh\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.pdb
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.exe.config
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.exe
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\bin\Debug\ListBox_NhapBac.pdb
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csprojAssemblyReference.cache
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_Bac.resources
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_ListBox.resources
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_ListBox_HoTen.resources
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.frm_NhapBac.resources
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.Properties.Resources.resources
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csproj.GenerateResource.cache
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.csproj.CoreCompileInputs.cache
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.exe
+D:\DTU\.net\Code_Lab_6\ListBox_NhapBac\obj\Debug\ListBox_NhapBac.pdb

@@ -1,0 +1,15 @@
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\bin\Debug\QUANLY.mdf
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\bin\Debug\QUANLY_log.ldf
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\bin\Debug\DOANCANHAN_LeHoaiAnh.exe.config
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\bin\Debug\DOANCANHAN_LeHoaiAnh.exe
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\bin\Debug\DOANCANHAN_LeHoaiAnh.pdb
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.csprojAssemblyReference.cache
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.frm_DangNhap.resources
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.Properties.Resources.resources
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.csproj.GenerateResource.cache
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.csproj.CoreCompileInputs.cache
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.exe
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.pdb
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.frm_Main.resources
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.frm_SinhVien.resources
+D:\DTU\.net\DOANCANHAN_LeHoaiAnh\DOANCANHAN_LeHoaiAnh\obj\Debug\DOANCANHAN_LeHoaiAnh.frm_GiaoVien.resources

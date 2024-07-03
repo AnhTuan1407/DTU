@@ -1,0 +1,30 @@
+﻿.form{
+    width:400px;
+    height:auto;
+    margin:auto;
+    transform:translateY(30px);
+    border:2px solid darkblue;
+    padding:15px;
+    border-radius:10px;
+    text-align:center;
+}
+
+.form .txt{
+    width:95%;
+    height:22px;
+    padding-left:5px;
+    margin-bottom:10px;
+}
+
+.form .btnDK{
+    background:darkblue;
+    color:white;
+    font-size:20px;
+    cursor:pointer;
+}
+
+.form .btnDK:hover{
+    background-color:wheat;
+    color:darkblue;
+    border:2px solid darkblue;
+}

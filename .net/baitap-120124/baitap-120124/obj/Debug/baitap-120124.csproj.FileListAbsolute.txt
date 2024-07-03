@@ -1,0 +1,7 @@
+D:\DTU\.net\baitap-120124\baitap-120124\bin\Debug\baitap-120124.exe.config
+D:\DTU\.net\baitap-120124\baitap-120124\bin\Debug\baitap-120124.exe
+D:\DTU\.net\baitap-120124\baitap-120124\bin\Debug\baitap-120124.pdb
+D:\DTU\.net\baitap-120124\baitap-120124\obj\Debug\baitap-120124.csprojAssemblyReference.cache
+D:\DTU\.net\baitap-120124\baitap-120124\obj\Debug\baitap-120124.csproj.CoreCompileInputs.cache
+D:\DTU\.net\baitap-120124\baitap-120124\obj\Debug\baitap-120124.exe
+D:\DTU\.net\baitap-120124\baitap-120124\obj\Debug\baitap-120124.pdb

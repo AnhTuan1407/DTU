@@ -1,0 +1,2 @@
+D:\DTU\.net\QUANLYSINHVIEN\QUANLYSINHVIEN\obj\Debug\QUANLYSINHVIEN.csprojAssemblyReference.cache
+D:\DTU\.net\QUANLYSINHVIEN\QUANLYSINHVIEN\obj\Debug\QUANLYSINHVIEN.csproj.CoreCompileInputs.cache

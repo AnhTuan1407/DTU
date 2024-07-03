@@ -1,0 +1,7 @@
+D:\DTU\.net\collection-dictionary\collection-dictionary\bin\Debug\collection-dictionary.exe.config
+D:\DTU\.net\collection-dictionary\collection-dictionary\bin\Debug\collection-dictionary.exe
+D:\DTU\.net\collection-dictionary\collection-dictionary\bin\Debug\collection-dictionary.pdb
+D:\DTU\.net\collection-dictionary\collection-dictionary\obj\Debug\collection-dictionary.csprojAssemblyReference.cache
+D:\DTU\.net\collection-dictionary\collection-dictionary\obj\Debug\collection-dictionary.csproj.CoreCompileInputs.cache
+D:\DTU\.net\collection-dictionary\collection-dictionary\obj\Debug\collection-dictionary.exe
+D:\DTU\.net\collection-dictionary\collection-dictionary\obj\Debug\collection-dictionary.pdb

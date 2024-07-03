@@ -1,0 +1,144 @@
+.menu{
+    width: 100%;
+    height: auto;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.menu a:hover{
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 5px;
+}
+
+.hot-sale{
+    width: 80%;
+    height: auto;
+    background-color: #e64041;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.hot-sale .title{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 3rem;
+    padding: 15px 0px;
+    background-image: url(/img/hotsale.png);
+}
+
+.hot-sale .title span{
+    color: yellow;
+}
+
+.hot-sale .product{
+    width: 100%;    
+    padding: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+.product .one-product{
+    width: 17%;
+    height: auto;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+.one-product .hinhsp img{
+    width: 100%;
+    transition: 0.3s;
+}
+
+.one-product .hinhsp img:hover{
+    transform: translateY(-5px);
+}
+
+.one-product .tensp{
+
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.one-product .tensp:hover{
+    color: cornflowerblue;
+}
+
+.one-product .giacu span {
+    text-decoration: line-through;
+}
+
+.one-product .giamoi {
+    color: red;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.login-form {
+    width: 100vw;
+    height: 100vh;
+    background-color: pink;
+    position: fixed;
+    top: 0;
+    visibility: hidden;
+}
+
+.active {
+    visibility: visible;
+    transform: scale(1);
+}
+
+.login-form form {
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    background-color: darkblue;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    transform: scale(0);
+    transition: 0.3s;
+}
+
+.zoom {
+   
+}
+
+form input {
+    width: 90%;
+    height: 25px;
+    margin-bottom: 10px;
+}
+
+form button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: darkcyan;
+    color: beige;
+}
+

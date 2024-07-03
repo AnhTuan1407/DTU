@@ -1,0 +1,12 @@
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\obj\Debug\00911_HuynhAnhTuan.csprojAssemblyReference.cache
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\obj\Debug\_00911_HuynhAnhTuan.frm_NhanVien.resources
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\obj\Debug\_00911_HuynhAnhTuan.Properties.Resources.resources
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\obj\Debug\00911_HuynhAnhTuan.csproj.GenerateResource.cache
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\obj\Debug\00911_HuynhAnhTuan.csproj.CoreCompileInputs.cache
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\bin\Debug\00911_HuynhAnhTuan.mdf
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\bin\Debug\00911_HuynhAnhTuan_log.ldf
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\bin\Debug\00911_HuynhAnhTuan.exe.config
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\bin\Debug\00911_HuynhAnhTuan.exe
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\bin\Debug\00911_HuynhAnhTuan.pdb
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\obj\Debug\00911_HuynhAnhTuan.exe
+D:\DTU\.net\00911_HuynhAnhTuan\00911_HuynhAnhTuan\obj\Debug\00911_HuynhAnhTuan.pdb

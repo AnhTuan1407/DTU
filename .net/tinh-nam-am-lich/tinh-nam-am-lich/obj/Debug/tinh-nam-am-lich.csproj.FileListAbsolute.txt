@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\tinh-nam-am-lich\tinh-nam-am-lich\bin\Debug\tinh-nam-am-lich.exe.config
+C:\Users\PC\source\repos\tinh-nam-am-lich\tinh-nam-am-lich\bin\Debug\tinh-nam-am-lich.exe
+C:\Users\PC\source\repos\tinh-nam-am-lich\tinh-nam-am-lich\bin\Debug\tinh-nam-am-lich.pdb
+C:\Users\PC\source\repos\tinh-nam-am-lich\tinh-nam-am-lich\obj\Debug\tinh-nam-am-lich.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\tinh-nam-am-lich\tinh-nam-am-lich\obj\Debug\tinh-nam-am-lich.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\tinh-nam-am-lich\tinh-nam-am-lich\obj\Debug\tinh-nam-am-lich.exe
+C:\Users\PC\source\repos\tinh-nam-am-lich\tinh-nam-am-lich\obj\Debug\tinh-nam-am-lich.pdb

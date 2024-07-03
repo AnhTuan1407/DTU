@@ -1,0 +1,14 @@
+C:\Users\HOME\source\repos\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+C:\Users\HOME\source\repos\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+C:\Users\HOME\source\repos\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+C:\Users\HOME\source\repos\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+C:\Users\HOME\source\repos\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+C:\Users\sonma\source\repos\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+C:\Users\sonma\source\repos\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+C:\Users\sonma\source\repos\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+C:\Users\sonma\source\repos\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+C:\Users\sonma\source\repos\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\sonma\source\repos\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+C:\Users\sonma\source\repos\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb

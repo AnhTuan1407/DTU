@@ -1,0 +1,14 @@
+C:\Users\sonma\source\repos\Cho_Thue_Xe\Cho_Thue_Xe\obj\Debug\Cho_Thue_Xe.csproj.AssemblyReference.cache
+C:\Users\sonma\source\repos\Cho_Thue_Xe\Cho_Thue_Xe\obj\Debug\Cho_Thue_Xe.csproj.CoreCompileInputs.cache
+C:\Users\sonma\source\repos\Cho_Thue_Xe\Cho_Thue_Xe\bin\Debug\Cho_Thue_Xe.exe.config
+C:\Users\sonma\source\repos\Cho_Thue_Xe\Cho_Thue_Xe\bin\Debug\Cho_Thue_Xe.exe
+C:\Users\sonma\source\repos\Cho_Thue_Xe\Cho_Thue_Xe\bin\Debug\Cho_Thue_Xe.pdb
+C:\Users\sonma\source\repos\Cho_Thue_Xe\Cho_Thue_Xe\obj\Debug\Cho_Thue_Xe.exe
+C:\Users\sonma\source\repos\Cho_Thue_Xe\Cho_Thue_Xe\obj\Debug\Cho_Thue_Xe.pdb
+D:\DTU\.net\Cho_Thue_Xe\Cho_Thue_Xe\bin\Debug\Cho_Thue_Xe.exe.config
+D:\DTU\.net\Cho_Thue_Xe\Cho_Thue_Xe\bin\Debug\Cho_Thue_Xe.exe
+D:\DTU\.net\Cho_Thue_Xe\Cho_Thue_Xe\bin\Debug\Cho_Thue_Xe.pdb
+D:\DTU\.net\Cho_Thue_Xe\Cho_Thue_Xe\obj\Debug\Cho_Thue_Xe.csprojAssemblyReference.cache
+D:\DTU\.net\Cho_Thue_Xe\Cho_Thue_Xe\obj\Debug\Cho_Thue_Xe.csproj.CoreCompileInputs.cache
+D:\DTU\.net\Cho_Thue_Xe\Cho_Thue_Xe\obj\Debug\Cho_Thue_Xe.exe
+D:\DTU\.net\Cho_Thue_Xe\Cho_Thue_Xe\obj\Debug\Cho_Thue_Xe.pdb

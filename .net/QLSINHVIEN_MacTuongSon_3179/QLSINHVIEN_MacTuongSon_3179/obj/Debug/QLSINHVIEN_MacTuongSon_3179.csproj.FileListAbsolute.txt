@@ -1,0 +1,12 @@
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\bin\Debug\QLSINHVIEN_MacTuongSon_3179.exe.config
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\bin\Debug\QLSINHVIEN_MacTuongSon_3179.exe
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\bin\Debug\QLSINHVIEN_MacTuongSon_3179.pdb
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.csproj.AssemblyReference.cache
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.Properties.Resources.resources
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.csproj.GenerateResource.cache
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.csproj.CoreCompileInputs.cache
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.exe
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.pdb
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.frm_QuanLySinhVien.resources
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.frm_DanhSachSinhVien.resources
+C:\Users\sonma\source\repos\QLSINHVIEN_MacTuongSon_3179\QLSINHVIEN_MacTuongSon_3179\obj\Debug\QLSINHVIEN_MacTuongSon_3179.frm_ThongTinKhachHang.resources

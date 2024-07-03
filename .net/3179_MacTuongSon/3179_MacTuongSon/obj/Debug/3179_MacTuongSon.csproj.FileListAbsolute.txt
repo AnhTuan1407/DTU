@@ -1,0 +1,12 @@
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\bin\Debug\3179_MacTuongSon.mdf
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\bin\Debug\3179_MacTuongSon_log.ldf
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\bin\Debug\3179_MacTuongSon.exe.config
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\bin\Debug\3179_MacTuongSon.exe
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\bin\Debug\3179_MacTuongSon.pdb
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\obj\Debug\3179_MacTuongSon.csprojAssemblyReference.cache
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\obj\Debug\_3179_MacTuongSon.frm_NhanVien.resources
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\obj\Debug\_3179_MacTuongSon.Properties.Resources.resources
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\obj\Debug\3179_MacTuongSon.csproj.GenerateResource.cache
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\obj\Debug\3179_MacTuongSon.csproj.CoreCompileInputs.cache
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\obj\Debug\3179_MacTuongSon.exe
+D:\DTU\.net\3179_MacTuongSon\3179_MacTuongSon\obj\Debug\3179_MacTuongSon.pdb

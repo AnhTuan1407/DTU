@@ -1,0 +1,14 @@
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\bin\Debug\WindowsFormsApp2-QLSV-20-02-24.exe.config
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\bin\Debug\WindowsFormsApp2-QLSV-20-02-24.exe
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\bin\Debug\WindowsFormsApp2-QLSV-20-02-24.pdb
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2-QLSV-20-02-24.csprojAssemblyReference.cache
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2_QLSV_20_02_24.Properties.Resources.resources
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2-QLSV-20-02-24.csproj.GenerateResource.cache
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2-QLSV-20-02-24.csproj.CoreCompileInputs.cache
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2-QLSV-20-02-24.exe
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2-QLSV-20-02-24.pdb
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2_QLSV_20_02_24.tim_thu.resources
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2_QLSV_20_02_24.frm_QLSV.resources
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2_QLSV_20_02_24.frm_Dangnhap.resources
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2_QLSV_20_02_24.frm_Mang.resources
+D:\DTU\.net\WindowsFormsApp2-QLSV-20-02-24\WindowsFormsApp2-QLSV-20-02-24\obj\Debug\WindowsFormsApp2_QLSV_20_02_24.frm_PTB2.resources

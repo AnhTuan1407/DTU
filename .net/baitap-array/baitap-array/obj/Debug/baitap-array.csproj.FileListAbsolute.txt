@@ -1,0 +1,7 @@
+D:\DTU\.net\baitap-array\baitap-array\bin\Debug\baitap-array.exe.config
+D:\DTU\.net\baitap-array\baitap-array\bin\Debug\baitap-array.exe
+D:\DTU\.net\baitap-array\baitap-array\bin\Debug\baitap-array.pdb
+D:\DTU\.net\baitap-array\baitap-array\obj\Debug\baitap-array.csprojAssemblyReference.cache
+D:\DTU\.net\baitap-array\baitap-array\obj\Debug\baitap-array.csproj.CoreCompileInputs.cache
+D:\DTU\.net\baitap-array\baitap-array\obj\Debug\baitap-array.exe
+D:\DTU\.net\baitap-array\baitap-array\obj\Debug\baitap-array.pdb

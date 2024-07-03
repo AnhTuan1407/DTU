@@ -1,0 +1,252 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Primary meta tags -->
+
+    <title>Bully BarberShop</title>
+    <meta name="title" content="Bully BarberShop">
+
+    <!-- Favicon -->
+
+    <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
+
+    <!-- Custom CSS link -->
+
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/responsive.css">
+
+    <!-- Google font link -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Rubik:wght@300,400;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Flaticon -->
+
+    <link rel="stylesheet" href="assets/css/flaticon.min.css">
+    
+    <!-- Preload images -->
+
+    <link rel="preload" as="img" href="./assets/images/hero-banner.jpg">
+
+</head>
+
+<body id="top">
+
+    <!-- HEADER -->
+  
+    <header class="header">
+  
+      <div class="header-top">
+        <div class="container">
+  
+          <ul class="header-top-list">
+  
+            <li class="header-top-item">
+              <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+  
+              <p class="item-title">Call Us :</p>
+  
+              <a href="tel:01234567895" class="item-link">(+84) 123456789</a>
+            </li>
+  
+            <li class="header-top-item">
+              <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+  
+              <p class="item-title">Opening Hour :</p>
+  
+              <p class="item-text">Sunday - Friday, 08 am - 09 pm</p>
+
+            </li>
+  
+            <li>
+              <ul class="social-list">
+  
+                <li>
+                  <a href="#" class="social-link">
+                    <ion-icon name="logo-facebook"></ion-icon>
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="social-link">
+                    <ion-icon name="logo-twitter"></ion-icon>
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="social-link">
+                    <ion-icon name="logo-youtube"></ion-icon>
+                  </a>
+                </li>
+  
+                <li>
+                  <a href="#" class="social-link">
+                    <ion-icon name="chatbubble-ellipses-outline"></ion-icon>
+                  </a>
+                </li>
+  
+              </ul>
+            </li>
+            
+            <!--Sign Up/Login/Logout functionality-->
+            <li class="header-top-item">
+              <ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+            
+              <!--These links can be dynamically controlled by backend logic -->
+              <a href="./signup.html" class="item-link" target="_blank">Sign Up</a>
+              <a href="./login.html" class="item-link" target="_blank">Log In</a> <!-- When user is logged out -->
+              <!-- Uncomment the next line when user is logged in -->
+              <!-- <a href="/logout" class="item-link" target="_blank">Log Out</a> --> <!-- When user is logged in -->
+            </li>
+  
+          </ul>
+  
+        </div>
+      </div>
+  
+      <div class="header-bottom" data-header>
+        <div class="container">
+  
+          <a href="#" class="logo">
+            Barber
+            <span class="span">Hair Salon</span>
+          </a>
+  
+          <nav class="navbar container" data-navbar>
+            <ul class="navbar-list">
+  
+              <li class="navbar-item">
+                <a href="#home" class="navbar-link" data-nav-link>Home</a>
+              </li>
+  
+              <li class="navbar-item">
+                <a href="#services" class="navbar-link" data-nav-link>Services</a>
+              </li>
+  
+              <li class="navbar-item">
+                <a href="#pricing" class="navbar-link" data-nav-link>Pricing</a>
+              </li>
+  
+              <li class="navbar-item">
+                <a href="#gallery" class="navbar-link" data-nav-link>Gallery</a>
+              </li>
+  
+              <li class="navbar-item">
+                <a href="#" class="navbar-link" data-nav-link>Contact</a>
+              </li>
+  
+            </ul>
+          </nav>
+  
+          <button class="nav-toggle-btn" aria-label="toggle menu" data-nav-toggler>
+            <ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+          </button>
+  
+            <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+          </a>
+  
+        </div>
+      </div>
+  
+    </header>
+  
+    <main>
+      <article>
+  
+        <!-- HERO -->
+  
+        <section class="section hero has-before has-bg-image" id="home" aria-label="home"
+          style="background-image: url('./assets/images/hero-banner.jpg')">
+          <div class="container">
+  
+            <h1 class="h1 hero-title">Barbers & Hair Cutting</h1>
+  
+            <!-- <p class="hero-text">
+              We believe we can satisfy you. Come to us to experience it for yourself.
+            </p> -->
+  
+  
+              <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+            </a>
+  
+          </div>
+        </section>
+
+        <!-- APPOINTMENT -->
+  
+        <section class="section appoin" id="appointment" aria-label="appointment">
+          <div class="container">
+  
+            <div class="appoin-card">
+  
+              <figure class="card-banner img-holder" style="--width: 250; --height: 774;">
+                <img src="./assets/images/appoin-banner-1.jpg" width="250" height="774" loading="lazy" alt=""
+                  class="img-cover">
+              </figure>
+  
+              <div class="card-content">
+  
+                <h2 class="h2 section-title">Make Appointment</h2>
+  
+                <p class="section-text">
+                  Register now to experience our services for yourself.
+                </p>
+  
+                <form action="" class="appoin-form">
+  
+                  <div class="input-wrapper">
+                    <input type="text" name="name" placeholder="Your Full Name" required class="input-field">
+  
+                    <input type="email" name="email_address" placeholder="Email Address" required class="input-field">
+                  </div>
+  
+                  <div class="input-wrapper">
+                    <input type="text" name="phone" placeholder="Phone Number" required class="input-field">
+  
+                    <select name="category" class="input-field">
+  
+                      <option value="Select category">Select category</option>
+                      <option value="Hair Cutting & Fitting">Hair Cutting & Fitting</option>
+                      <option value="Facial & Face Wash">Facial & Face Wash</option>
+                      <option value="Shaving & Facial">Shaving & Facial</option>
+                      <option value="Hair Color & Wash">Hair Color & Wash</option>
+  
+                    </select>
+                  </div>
+  
+                  <input type="date" name="date" required class="input-field date">
+  
+                  <textarea name="message" placeholder="Write Message" required class="input-field"></textarea>
+  
+                  <button type="submit" class="form-btn">
+                    <span class="span">Appointment Now</span>
+  
+                    <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+                  </button>
+  
+                </form>
+  
+              </div>
+  
+              <figure class="card-banner img-holder" style="--width: 250; --height: 774;">
+                <img src="./assets/images/appoin-banner-2.jpg" width="250" height="774" loading="lazy" alt=""
+                  class="img-cover">
+              </figure>
+  
+            </div>
+  
+          </div>
+        </section>
+  
+      </article>
+    </main>
+
+   

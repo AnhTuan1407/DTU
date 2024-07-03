@@ -1,0 +1,3 @@
+C:\Users\ADMIN\Desktop\QLXE\bin\Debug\QLXE.exe.config
+D:\DTU\.net\QLXE\obj\Debug\QLXE.csprojAssemblyReference.cache
+D:\DTU\.net\QLXE\obj\Debug\QLXE.csproj.CoreCompileInputs.cache

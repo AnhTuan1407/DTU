@@ -1,0 +1,17 @@
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\bin\Debug\DOANCANHAN.mdf
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\bin\Debug\DOANCANHAN_log.ldf
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\bin\Debug\DOANCANHAN_HuynhAnhTuan_00911.exe.config
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\bin\Debug\DOANCANHAN_HuynhAnhTuan_00911.exe
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\bin\Debug\DOANCANHAN_HuynhAnhTuan_00911.pdb
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.csprojAssemblyReference.cache
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.frm_DangNhap.resources
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.Properties.Resources.resources
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.csproj.GenerateResource.cache
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.csproj.CoreCompileInputs.cache
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.exe
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.pdb
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.frm_Main.resources
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.frm_NhanVien.resources
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.frm_KhachHang.resources
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.frm_HangHoa.resources
+D:\DTU\.net\DOANCANHAN_HuynhAnhTuan_00911\DOANCANHAN_HuynhAnhTuan_00911\obj\Debug\DOANCANHAN_HuynhAnhTuan_00911.frm_XuatHoaDon.resources

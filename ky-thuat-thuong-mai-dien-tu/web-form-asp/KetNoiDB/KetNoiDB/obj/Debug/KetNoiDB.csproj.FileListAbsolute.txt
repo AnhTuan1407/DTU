@@ -1,0 +1,112 @@
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\KetNoiDB.dll.config
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\KetNoiDB.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\KetNoiDB.pdb
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csc.exe
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csc.exe.config
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csc.rsp
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csi.exe
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csi.exe.config
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csi.rsp
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.AppContext.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Collections.Immutable.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Console.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.Compression.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.FileSystem.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.Pipes.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Reflection.Metadata.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.AccessControl.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Claims.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.ValueTuple.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Xml.XPath.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\vbc.exe
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\vbc.exe.config
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\vbc.rsp
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\VBCSCompiler.exe
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\VBCSCompiler.exe.config
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.csprojAssemblyReference.cache
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.csproj.CopyComplete
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.dll
+D:\DTU\Kỹ thuật thương mại điện tử\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.pdb
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\KetNoiDB.dll.config
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\KetNoiDB.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\KetNoiDB.pdb
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csc.exe
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csc.exe.config
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csc.rsp
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csi.exe
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csi.exe.config
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\csi.rsp
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.AppContext.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Collections.Immutable.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Console.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.Compression.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.FileSystem.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.IO.Pipes.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Reflection.Metadata.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.AccessControl.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Claims.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.ValueTuple.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Xml.XPath.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\vbc.exe
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\vbc.exe.config
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\vbc.rsp
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\VBCSCompiler.exe
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\roslyn\VBCSCompiler.exe.config
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.csprojAssemblyReference.cache
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.csproj.CopyComplete
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.dll
+D:\DTU\ky-thuat-thuong-mai-dien-tu\web-form-asp\KetNoiDB\KetNoiDB\obj\Debug\KetNoiDB.pdb

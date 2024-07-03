@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34031.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-truyen", "web-truyen\web-truyen.csproj", "{5314F482-0EEE-46F2-A937-EAB0B26E984C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5314F482-0EEE-46F2-A937-EAB0B26E984C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5314F482-0EEE-46F2-A937-EAB0B26E984C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5314F482-0EEE-46F2-A937-EAB0B26E984C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5314F482-0EEE-46F2-A937-EAB0B26E984C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8C9238-36C4-4F80-8E35-0C2133684846}
+	EndGlobalSection
+EndGlobal
