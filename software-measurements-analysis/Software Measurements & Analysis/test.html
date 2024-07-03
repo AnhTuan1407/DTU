@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function calculateLLOC(fileContent) {
+    // Chia nội dung thành các dòng
+    const lines = fileContent.split('\n');
+    let llocCount = 0;
+
+    // Đếm số lượng dòng mã logic (LLOC)
+    lines.forEach(line => {
+        // Loại bỏ các dòng trống và các dòng chỉ chứa comment
+        const trimmedLine = line.trim();
+        if (trimmedLine !== '' && !trimmedLine.startsWith('//') ||trimmedLine !== '' && !trimmedLine.startsWith('/*') ) {
+            llocCount++;
+        }
+    });
+
+    return llocCount;
+}
+
+// Ví dụ sử dụng
+const exampleFileContent = `
+/* Now how many lines of code is this? */
+for (i = 0; i < 100; i++)
+{
+    printf("hello");
+}
+`;
+const lloc = calculateLLOC(exampleFileContent);
+console.log('Logical Lines of Code (LLOC):', lloc);
+
+    </script>
+</body>
+</html>

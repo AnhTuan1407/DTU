@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|d:\\dtu\\software-measurements-analysis\\loc-final-version\\loc\\loc\\frm_mainucp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_mainucp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|d:\\dtu\\software-measurements-analysis\\loc-final-version\\loc\\loc\\frm_mainucp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_mainucp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|d:\\dtu\\software-measurements-analysis\\loc-final-version\\loc\\loc\\frm_mainfp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_mainfp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\loc\\frm_aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\loc\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\loc\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\loc\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_MainUCP.cs",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_MainUCP.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_MainUCP.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_MainUCP.cs",
+              "RelativeToolTip": "LOC\\frm_MainUCP.cs",
+              "ViewState": "AQIAAGYBAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:37:34.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_MainUCP.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_MainUCP.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_MainUCP.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_MainUCP.cs [Design]",
+              "RelativeToolTip": "LOC\\frm_MainUCP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:02:17.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_AboutUs.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_AboutUs.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_AboutUs.cs",
+              "ToolTip": "C:\\Users\\vu tran\\Desktop\\LOC\\LOC\\frm_AboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:48:11.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_MainFP.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_MainFP.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_MainFP.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_MainFP.cs [Design]",
+              "RelativeToolTip": "LOC\\frm_MainFP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:48:06.276Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_Home.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_Home.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Home.cs",
+              "ToolTip": "C:\\Users\\vu tran\\Desktop\\LOC\\LOC\\frm_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:47:37.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_Menu.cs",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_Menu.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Menu.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_Menu.cs",
+              "RelativeToolTip": "LOC\\frm_Menu.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAIwFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:46:53.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Menu.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC-final-version\\LOC\\LOC\\frm_Menu.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Menu.cs",
+              "ToolTip": "C:\\Users\\vu tran\\Desktop\\LOC\\LOC\\frm_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:46:48.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

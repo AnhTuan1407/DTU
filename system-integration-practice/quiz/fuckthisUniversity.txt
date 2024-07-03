@@ -1,0 +1,22 @@
+51
+data loss
+IP risk
+Unclear delivery expectations
+52
+Relational databases are designed to store structured data that is typically unchanging or changes at a relatively slow pace. When dealing with data that changes frequently, such as stock prices or movement locations, storing it in a relational database can lead to performance issues and data inconsistencies. This is because relational databases rely on complex data structures and indexing mechanisms to ensure data integrity and consistency. When data changes frequently, these mechanisms can become a bottleneck, slowing down the system and increasing the risk of data inconsistencies.
+53
+Data Inconsistency: If two systems have different names for the same data entity, it can result in data inconsistencies. For example, if one system refers to a customer as "Client" and another system uses the term "Customer," it can lead to confusion and incorrect data mapping
+54
+authorization involves defining a policy, access control puts the policies to work
+55
+Java Database Connectivity
+56
+Remote Procedure Invocation applies the principle of encapsulation to integrating applications. If an application needs some information that is owned by another application, it asks that application directly.
+57
+allows companies to meet changing business needs in a timely and cost-effective manner
+58
+allow different parts of a system to communicate and process operations asynchronously
+59
+with replication or redundancy
+60
+if one of requested data items is placed at the previous, same, or later location of a scheduled data item which is also associated with on different channels, a data conflict occurs

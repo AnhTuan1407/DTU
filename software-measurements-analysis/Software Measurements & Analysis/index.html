@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Metrics Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="dashboard">
+        <div class="sidebar">
+            <h2>Metrics</h2>
+            <nav>
+                <ul>
+                    <li><a href="#" id="homeLink" onclick="showCategory('home')">Home</a></li>
+                    <li><a href="#" id="locLink" onclick="showCategory('loc')">Lines of Code (LOC)</a></li>
+                    <li><a href="#" id="fpLink" onclick="showCategory('fp')">Function Points (FP)</a></li>
+                    <li><a href="#" id="ucpLink" onclick="showCategory('ucp')">Unadjusted Function Points (UCP)</a></li>
+                    <li><a href="#" id="evmLink" onclick="showCategory('evm')">Earned Value Management (EVM)</a></li>
+                    <li><a href="#" id="dreLink" onclick="showCategory('dre')">Defect Removal Efficiency (DRE)</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="content">
+            <div id="homeContent" style="display: none;">
+                <h1>Software Metrics Dashboard</h1>
+                <form id="fileUploadForm" onsubmit="uploadFile(event)">
+                    <label for="inputFile">Please import file</label>
+                    <input type="file" id="inputFile" name="inputFile" accept=".c,.cpp,.java,.py,.js,.cs,.php,.rb,.swift,.go,.R,.html,.css">
+                    <br>
+                    <label for="fpMethod">Function Point Method:</label>
+                    <select id="fpMethod">
+                        <option value="simple">Simple Estimation</option>
+                        <option value="detailed">Detailed Estimation</option>
+                    </select>
+                    <button type="submit">Submit</button>
+                </form>
+                <p id="message"></p>
+            </div>
+            <div id="locContent" style="display: none;">
+                <p id="locResult_LOC"></p>
+                <p id="locResult_LLOC"></p>
+                <p id="locResult_cmtL"></p>
+            </div>
+            <div id="fpContent" style="display: none;">
+                <p id="fpResult"></p>
+            </div>
+            <div id="ucpContent" style="display: none;">
+                <p>UCP</p>
+            </div>
+            <div id="evmContent" style="display: none;">
+                <p>EVM</p>
+            </div>
+            <div id="dreContent" style="display: none;">
+                <p>DRE</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

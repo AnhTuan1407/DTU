@@ -1,0 +1,221 @@
+book: 28, 76
+ducnm@dyutan.edu.vn
+0905159359
+
+cách xác định architectural drivers
+
+- xác định nghiệp vụ của doanh nghiệp
+- dựa vào nghiệp vụ để chọn kiến trúc
+- xác nhận lại kiến trúc
+
+tradeoff: sự đánh đổi giữa các thuộc tính chất lượng ( ví dụ: thời gian làm ít thì tiền nhiều )
+
+the software architecture of a program or computing system is the structure or structures of the system, which comprise the software element, the externally visible properties of those elements, and the relationships among them ( Kiến trúc phần mềm của một chương trình hoặc hệ thống máy tính là cấu trúc hoặc các cấu trúc của hệ thống) 
+structure có 3 loại bao gồm:
++ static (code)
++ dynamic (c&c: component and connetor)
++ allocation
+
+structure - an actual set of architectural elements as they exist in software or hardware
+
+view - a representation of a coherent set of architectural elements, as written and read by system stakeholders. A view represents a set of elements and the relationships among them
+
+--------buổi 2-------------------
+
+Architectural drivers are requirements that will shape the software architecture ( Trình điều khiển kiến ​​trúc là những yêu cầu sẽ định hình kiến ​​trúc phần mềm)\
+
+Architectural drivers include:
+- Functional Requirements
+- Quality Attributes = nonFunction
+- Constraints
+
+c4 model:
+c1: system context
+c2: container
+c3: component
+c4: class
+
+
+constrain:
+- business
+- technical
+- document
+
+quality Attribute Scenarios
+• Quality Attribute Scenarios are a means to better 
+characterize quality attributes.
+
+Six Parts of a Quality Attribute Scenario
+1. Stimulus – A condition that affects the system.
+2. Source of the stimulus – The entity that generated the 
+stimulus.
+3. Environment – The condition under which the stimulus 
+occurred.
+4. Artifact stimulated – The artifact that was stimulated by 
+the stimulus.
+5. Response – The activity that results because of the 
+stimulus.
+6. Response measure – The measure by which the 
+system’s response will be evaluated.
+
+
+---buổi 3 ------
+focus: business context
+
+Remember the architectural drivers
+• Functional requirements
+• Quality attribute requirements 
+• Business constraints
+• Technical constraints
+(Ghi nhớ các architectural drivers
+• Yêu cầu chức năng
+• Yêu cầu thuộc tính chất lượng
+• Hạn chế kinh doanh
+• Hạn chế về mặt kỹ thuật)
+
+The Architectural Drivers typically come from:
+• Business goals/strategy
+• Organizational context
+• Domain related concerns
+• Regulatory concerns
+• Existing technical environment
+
+(Architectural Drivers thường đến từ:
+• Mục tiêu/chiến lược kinh doanh
+• Bối cảnh tổ chức
+• Mối quan tâm liên quan đến tên miền
+• Những lo ngại về quy định
+• Môi trường kỹ thuật hiện tại)
+
+định nghĩa, trường hợp khi nào sử dụng, ưu nhược, thuộc tính tác động tới
+
+----buổi 4----
+Three Kinds of Structures:
+- Module structures embody decisions as to how the system is to be structured as a set of code 
+or data units that have to be constructed or procured. In any module structure, the elements 
+are modules of some kind (perhaps classes, or layers, or merely divisions of functionality, all 
+of which are units of implementation) ( liên quan đến cách tổ chức class, component.... như thế
+nào )
+• What is the primary functional responsibility assigned to each module? 
+• What other software elements is a module allowed to use? 
+• What other software does it actually use and depend on? 
+• What modules are related to other modules by generalization or specialization (i.e., 
+inheritance) relationships?
+
+- Component-and-connector structures embody decisions as to how the system is to be 
+structured as a set of elements that have runtime behavior (components) and interactions 
+(connectors) ( không phải liên quan đến quá trình code mà liên quan đến quá trình sản phẩm khởi chạy khởi chạy )
+• What are the major executing components and how do they interact at runtime? 
+• What are the major shared data stores? 
+• Which parts of the system are replicated? 
+• How does data progress through the system? 
+• What parts of the system can run in parallel? 
+• Can the system's structure change as it executes and, if so, how? 
+
+- Allocation structures embody decisions as to how the system will relate to nonsoftware 
+structures in its environment (such as CPUs, file systems, networks, development teams, 
+etc.)
+• What processor does each software element execute on? 
+• In what directories or files is each element stored during development, testing, and 
+system building? 
+• What is the assignment of each software element to development teams?
+
+A software architectural pattern is a like a fundamental or primitive structure
+
+A tactic provides a scheme for refining the elements of a software system and the relationships between them. 
+
+Source: End user, developer, system administrator, product manager, …
+Stimulus: A directive to add/remove/modify functionality, a quality attribute, capacity, or technology
+Artifact: The system, code, data, interfaces, components, resources, configurations, …
+Environment: Runtime, compile time, build time, initiation time, design time
+Response One or more of the following:
+• Make modification
+• Test modification
+• Deploy modification
+Response Measure:
+Cost in terms of:
+• Effort
+• Calendar time
+• Money
+• Extent to which modification affects other functions or quality attributes
+• New defects introduced
+
+----buổi 5 ----
+How is Availability Measured?
+Availability is typically measured as:
+____MTBF____
+MTBF + MTTR
+MTBF = Mean Time Between Failures
+MTTR = Mean Time To Repair
+
+General Quality Attribute Table
+Portion of the Scenario: Possible Values
+Source: Internal/external( people, hardware, software, physical 
+infrastructure, physical environment) 
+Stimulus: Fault( omission, crash, incorrect timing, incorrect 
+response)
+Artifact: System, processors, communication channels, persistent storage, processes
+Environment: Formal operation, startup, shutdown, repair mode, degraded operation, overload 
+Response: Action taken as a result of fault, impact to existing load, detection and isolation of fault
+Response Measure: Time to detect fault, time to repair fault, impact on existing load (e.g. from a timing perspective)
+
+---buổi 6---
+Performance can mean different things depending on the context
+• Typically people mean one or more of the following:
+• Latency
+• Throughput
+• Predictability
+• Utilization
+
+Performance
+-Performance Demand include step:
+• Increase Computational Efficiency
+• Reduce Computational Overhead
+• Manage Event Rate
+• Control Frequency of Sampling
+Resource Management include step:
+• Introduce Concurrency
+• Maintain Multiple Copies
+• Increase Available Resources
+Resource Arbitration include step:
+• Scheduling Policy
+
+General Quality Attribute Table
+Portion of the Scenario: Possible Values
+Source: Internal or external to the system
+Stimulus: Arrival of a periodic, sporadic, or stochastic event
+Artifact: System or one or more (runtime) components of the 
+system
+Environment: Operational mode: normal, degraded, peak load, 
+overload
+Response: Process events, change level of service
+Response Measure: Latency, deadline, throughput, jitter, miss rate 
+
+--- buổi 7 ---- SCALABILITY
+
+dn: The scalability of a system refers to the ability to add 
+capacity to the system
+
+Portion of the Scenario: Possible Values
+Source: Internal, external
+Stimulus:  Increased demand in terms of; requests, data, users, nodes, network traffic
+Artifact: System, processors, communication channels, persistent storage, processes
+Environment: Normal operations, degraded mode
+Response: Process requests, process data, handle traffic
+Response Measure: Average latency, % of deadlines missed, throughput
+
+---buổi 8 ---- security
+dn: Security is a measure of the system's ability to protect data and information from unauthorized access while still providing access to people and systems that are authorized
+
+1. Confidentiality is the property that data or services are protected from unauthorized access. For example, a hacker cannot access your income tax retun1s on a government computer. 
+2. Integrity is the property that data or services are not subject to unauthorized manipulation. For example, your grade has not been changed since your instructor assigned it. 
+3. Availability is the property that the system will be available for legitimate use. For example, a denial-of-service attack won't prevent 1you from ordering book from an online bookstore
+
+4. Authentication verifies the identities of the parties to a transaction and checks if they are truly who they claim to be. For example, when you get an email purporting to come from a bank, authentication guarantees that it actually comes from the bank. 
+5. Nonrepudiation guarantees that the sender of a message cannot later deny having sent the message, and that the recipient cannot deny having received the message. For example, you cannot deny ordering something from the Internet, or the merchant cannot disclaim getting your order. 
+6. Authorization grants a user the privileges to perform a task. For example, an online banking system authorizes a legitimate user to access his account.
+
+
+----buổi 9----
+ACDM is an iterative design method focused on producing a stable architecture
+

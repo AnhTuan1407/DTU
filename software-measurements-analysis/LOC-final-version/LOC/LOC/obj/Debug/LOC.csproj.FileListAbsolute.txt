@@ -1,0 +1,106 @@
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.frm_Main.resources
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.Properties.Resources.resources
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LOC\LOC\bin\Debug\LOC.exe.config
+C:\Users\HP\Desktop\LOC\LOC\bin\Debug\LOC.exe
+C:\Users\HP\Desktop\LOC\LOC\bin\Debug\LOC.pdb
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.exe
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.pdb
+C:\Users\HP\Desktop\LOC\LOC\obj\Debug\LOC.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\LOC - Copy\LOC\bin\Debug\LOC.exe.config
+C:\Users\HP\Desktop\LOC - Copy\LOC\bin\Debug\LOC.exe
+C:\Users\HP\Desktop\LOC - Copy\LOC\bin\Debug\LOC.pdb
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.frm_Main.resources
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.frm_Menu.resources
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.Properties.Resources.resources
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.exe
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.pdb
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.frm_AboutUs.resources
+C:\Users\HP\Desktop\LOC - Copy\LOC\obj\Debug\LOC.frm_Home.resources
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.csproj.ResolveComReference.cache
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.frm_AboutUs.resources
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.frm_Home.resources
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.frm_Main.resources
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.frm_Menu.resources
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.Properties.Resources.resources
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.exe
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.pdb
+\\Mac\Home\Downloads\LOC - Copy\LOC\bin\Debug\LOC.exe.config
+\\Mac\Home\Downloads\LOC - Copy\LOC\bin\Debug\LOC.exe
+\\Mac\Home\Downloads\LOC - Copy\LOC\bin\Debug\LOC.pdb
+\\Mac\Home\Downloads\LOC - Copy\LOC\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\Mac\Home\Downloads\LOC - Copy\LOC\obj\Debug\LOC.csproj.Up2Date
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.csproj.AssemblyReference.cache
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.csproj.ResolveComReference.cache
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.frm_AboutUs.resources
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.frm_Home.resources
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.frm_Main.resources
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.frm_Menu.resources
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.csproj.GenerateResource.cache
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.exe
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.pdb
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.Properties.Resources.resources
+D:\DTU\software-measurements-analysis\LOC\LOC\obj\Debug\LOC.csproj.CoreCompileInputs.cache
+D:\DTU\software-measurements-analysis\LOC\LOC\bin\Debug\LOC.exe.config
+D:\DTU\software-measurements-analysis\LOC\LOC\bin\Debug\LOC.exe
+D:\DTU\software-measurements-analysis\LOC\LOC\bin\Debug\LOC.pdb
+C:\Users\vu tran\Desktop\LOC\LOC\bin\Debug\LOC.exe.config
+C:\Users\vu tran\Desktop\LOC\LOC\bin\Debug\LOC.exe
+C:\Users\vu tran\Desktop\LOC\LOC\bin\Debug\LOC.pdb
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.csproj.ResolveComReference.cache
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.frm_AboutUs.resources
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.frm_Home.resources
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.frm_Main.resources
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.frm_Menu.resources
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.Properties.Resources.resources
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.csproj.GenerateResource.cache
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.csproj.CoreCompileInputs.cache
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.exe
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.pdb
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.csprojAssemblyReference.cache
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.frm_MainFP.resources
+C:\Users\vu tran\Desktop\LOC\LOC\obj\Debug\LOC.frm_MainUCP.resources
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\bin\Debug\LOC.exe.config
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\bin\Debug\LOC.exe
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\bin\Debug\LOC.pdb
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.csprojAssemblyReference.cache
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.csproj.ResolveComReference.cache
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.frm_AboutUs.resources
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.frm_Home.resources
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.frm_Main.resources
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.frm_MainFP.resources
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.frm_MainUCP.resources
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.frm_Menu.resources
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.Properties.Resources.resources
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.csproj.GenerateResource.cache
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.csproj.CoreCompileInputs.cache
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.exe
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.pdb
+E:\University\DTU\Software Measurements & Analysis\Tool-Measurements-\LOC\LOC\obj\Debug\LOC.frm_MainEVM.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\bin\Debug\LOC.exe.config
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\bin\Debug\LOC.exe
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\bin\Debug\LOC.pdb
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.csproj.ResolveComReference.cache
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.frm_AboutUs.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.frm_Home.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.frm_Main.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.frm_MainEVM.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.frm_MainFP.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.frm_MainUCP.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.frm_Menu.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.Properties.Resources.resources
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.csproj.GenerateResource.cache
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.csproj.CoreCompileInputs.cache
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.exe
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.pdb
+D:\DTU\software-measurements-analysis\LOC-final-version\LOC\LOC\obj\Debug\LOC.csprojAssemblyReference.cache

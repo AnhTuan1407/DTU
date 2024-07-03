@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DTU\\software-measurements-analysis\\LOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|d:\\dtu\\software-measurements-analysis\\loc\\loc\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\frm_aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\frm_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\frm_aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\frm_aboutus.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|D:\\DTU\\software-measurements-analysis\\LOC\\loc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5CA971-12FF-4045-8F82-56BD665BBB2B}|LOC\\LOC.csproj|solutionrelative:loc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Menu.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Menu.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Menu.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Menu.cs [Design]",
+              "RelativeToolTip": "LOC\\frm_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:01:14.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_Main.cs",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Main.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Main.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Main.cs",
+              "RelativeToolTip": "LOC\\frm_Main.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:47:13.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Main.Designer.cs",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Main.Designer.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Main.Designer.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Main.Designer.cs",
+              "RelativeToolTip": "LOC\\frm_Main.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:47:05.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_AboutUs.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_AboutUs.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_AboutUs.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_AboutUs.cs [Design]",
+              "RelativeToolTip": "LOC\\frm_AboutUs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:39:56.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Home.cs",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Home.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Home.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Home.cs",
+              "RelativeToolTip": "LOC\\frm_Home.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAD4vxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:32:34.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Home.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Home.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Home.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Home.cs [Design]",
+              "RelativeToolTip": "LOC\\frm_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:32:19.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_Main.cs [Design]",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Main.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Main.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Main.cs [Design]",
+              "RelativeToolTip": "LOC\\frm_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:47:10.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_Menu.cs",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Menu.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_Menu.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_Menu.cs",
+              "RelativeToolTip": "LOC\\frm_Menu.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:01:17.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\Program.cs",
+              "RelativeDocumentMoniker": "LOC\\Program.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\Program.cs",
+              "RelativeToolTip": "LOC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:30:44.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_AboutUs.Designer.cs",
+              "DocumentMoniker": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_AboutUs.Designer.cs",
+              "RelativeDocumentMoniker": "LOC\\frm_AboutUs.Designer.cs",
+              "ToolTip": "D:\\DTU\\software-measurements-analysis\\LOC\\LOC\\frm_AboutUs.Designer.cs",
+              "RelativeToolTip": "LOC\\frm_AboutUs.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAD4v1sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:30:22.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

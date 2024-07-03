@@ -1,0 +1,43 @@
+Our company has two separate systems for managing our Human Resources Department and our Payroll
+department. Every time I ask for information about our employees, it takes both departments a significant amount of time to gather the information that I need. In addition, our shareholders often ask
+for information about our employees and both departments have to stop their work to gather the information to answer their questions. It seems very inefficient to me and I feel limited in the kinds of
+information that I can ask for. Therefore, I am not able to make timely management decisions.
+Another problem that my management team faces is that we often discover a problem before it is too late. Ideally, we would like the systems to let us know when certain conditions exist or special events
+take place, such as employment anniversaries. Neither system provides us with the ability to manage by exception.
+Our company is growing very quickly so our need to provide timely information to our senior managers is becoming critical. We would like your team to develop a dashboard that can be used by senior
+managers to show summary information about our employees and their payroll and benefits information. Although we are considering changing to a different financial system or Human Resource
+Management system, we would like to explore the possibility of continuing with our existing systems for a while longer.
+The team should develop an application that shows the following summarized information:
+1) The total earnings by shareholder, gender, ethnicity, part-time, and full- time employee to date and the previous year, by department
+2) Total number of vacation days taken by shareholder, gender, ethnicity, part-time, and fulltime employee to date and the previous year
+3) Average benefits paid to shareholders and non-shareholders to date by benefits plan
+In addition, management would like to be able to set alerts when the following conditions occur:
+1) An employee is within a certain number of days of their hiring anniversary
+2) An employee has accumulated more than a certain number of days of vacation
+3) Employees make a change to their benefits plan that affects their payroll
+4) All employees who have birthdays within the current month
+I am sure that we will have more information needs in the future, but this will address our most pressing needs. In addition to the summary information, senior managers must be able to “drill down” into the
+summary information to see specifics. The dashboard should have that capability to see the details behind the summary. Please provide a plan to accomplish the work. It would also be helpful to see some
+drafts of the interface so that we can make sure the team is on track with our needs.
+
+
+
+Công ty chúng tôi có hai hệ thống riêng biệt để quản lý Phòng Nhân sự và Phòng Tiền lương.
+phòng. Mỗi lần tôi hỏi thông tin về nhân viên của chúng tôi, cả hai bộ phận đều phải mất một khoảng thời gian đáng kể để thu thập thông tin tôi cần. Ngoài ra, các cổ đông của chúng tôi thường hỏi để biết thông tin về nhân viên của chúng tôi và cả hai bộ phận phải dừng công việc của mình để thu thập thông tin để trả lời câu hỏi của họ. Đối với tôi nó có vẻ rất kém hiệu quả và tôi cảm thấy bị hạn chế trong các loại thông tin mà tôi có thể yêu cầu. Vì vậy, tôi không thể đưa ra các quyết định quản lý kịp thời.
+Một vấn đề khác mà đội ngũ quản lý của tôi gặp phải là chúng tôi thường phát hiện ra vấn đề trước khi quá muộn. Lý tưởng nhất là chúng tôi muốn hệ thống cho chúng tôi biết khi có một số điều kiện nhất định hoặc các sự kiện đặc biệt
+diễn ra, chẳng hạn như ngày kỷ niệm việc làm. Cả hai hệ thống đều không cung cấp cho chúng tôi khả năng quản lý bằng ngoại lệ.
+Công ty của chúng tôi đang phát triển rất nhanh nên nhu cầu cung cấp thông tin kịp thời cho các nhà quản lý cấp cao của chúng tôi ngày càng trở nên quan trọng. Chúng tôi muốn nhóm của bạn phát triển một bảng thông tin mà cấp trên có thể sử dụng
+người quản lý để hiển thị thông tin tóm tắt về nhân viên của chúng tôi cũng như thông tin về tiền lương và phúc lợi của họ. Mặc dù chúng tôi đang cân nhắc việc thay đổi sang một hệ thống tài chính hoặc hệ thống quản lý nhân sự khác.
+Hệ thống quản lý, chúng tôi muốn khám phá khả năng tiếp tục với các hệ thống hiện có của chúng tôi thêm một thời gian nữa.
+Nhóm nên phát triển một ứng dụng hiển thị các thông tin tóm tắt sau:
+1) Tổng thu nhập theo cổ đông, giới tính, dân tộc, nhân viên bán thời gian và toàn thời gian cho đến nay và năm trước, theo bộ phận
+2) Tổng số ngày nghỉ phép của cổ đông, giới tính, dân tộc, nhân viên bán thời gian và toàn thời gian tính đến thời điểm hiện tại và năm trước
+3) Phúc lợi bình quân trả cho cổ đông và người không phải cổ đông tính đến thời điểm hiện tại theo kế hoạch phúc lợi
+Ngoài ra, ban quản lý muốn có thể đặt cảnh báo khi xảy ra các điều kiện sau:
+1) Một nhân viên đang trong một số ngày nhất định kể từ ngày kỷ niệm tuyển dụng của họ
+2) Người lao động đã tích lũy quá số ngày nghỉ phép nhất định
+3) Nhân viên thay đổi kế hoạch phúc lợi ảnh hưởng đến bảng lương của họ
+4) Tất cả nhân viên có sinh nhật trong tháng hiện tại
+Tôi chắc chắn rằng chúng ta sẽ có nhiều nhu cầu thông tin hơn trong tương lai, nhưng điều này sẽ giải quyết được những nhu cầu cấp thiết nhất của chúng ta. Ngoài những thông tin tóm tắt, các nhà quản lý cấp cao còn phải có khả năng “đi sâu vào”
+thông tin tóm tắt để xem chi tiết. Trang tổng quan phải có khả năng xem chi tiết đằng sau bản tóm tắt. Hãy đưa ra kế hoạch để hoàn thành công việc. Nó cũng sẽ hữu ích để xem một số
+bản phác thảo giao diện để chúng tôi có thể đảm bảo nhóm đang đi đúng hướng với nhu cầu của mình.
